@@ -1,0 +1,22 @@
+.tp-caption.boxed_large_blue {
+position:absolute;
+font-size:38px;
+line-height:38px;
+color:#fff;
+background:#06D0B9;
+padding:8px 12px 12px;
+}
+
+.tp-caption.Kubs {
+font-size:37px;
+line-height:35px;
+font-weight:400;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background:none repeat scroll 0% 0% rgb(6, 208, 185);
+padding:8px 12px 12px;
+border-width:0px;
+border-color:rgb(255, 255, 255);
+border-style:none;
+}
+
